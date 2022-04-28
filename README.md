@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/avaussant?tab=repositories](https://github.com/avaussant?tab=repositories)
 
-- 📝 I regularly write articles on [Linkedin / Twitter / Blog](Linkedin / Twitter / https://libertybylinux.wordpress.com/)
+- 📝 I regularly write/share articles on Linkedin/Twitter/[Blog](https://libertybylinux.wordpress.com/)
 
 - 💬 Ask me about **DevOps / SRE / Cloud Architect / CICD / Gitops**
 
