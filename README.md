@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang (level up) / Kubernetes Federation / Kubernetes Multi tenants / Gitops**
 
-- 👯 I’m looking to collaborate on **Gitops**
+- 👯 I’m looking to collaborate on **Gitops DevOps DevSecOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avaussant?tab=repositories](https://github.com/avaussant?tab=repositories)
 
