@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alexandre.vaussant@outlook.com**
 
-- 📄 Know about my experiences [Checking on Linkedin / Twitter](Checking on Linkedin / Twitter)
+- 📄 Know about my experiences [Checking on Linkedin](https://www.linkedin.com/in/alexandre-vaussant-662696b5/) / [Twitter](https://twitter.com/avaussant)
 
 - ⚡ Fun fact **I m really a geek**
 
